@@ -1,0 +1,110 @@
+<resources>
+    <string name="app_name">Conversiones</string>
+
+    <!-- PRIMERA APP -->
+    <string name="s1">Conversor de números</string>
+    <string name="s2"></string>
+    <string name="bi">Binario</string>
+    <string name="oc">Octal</string>
+    <string name="hex">Hexadecimal</string>
+    <string name="num">Introduce un número</string>
+
+    <!-- SEGUNDA APP -->
+    <string name="s3">Conversor de áreas, volumen y longitud</string>
+    <string name="s4">Resultado</string>
+    <string name="s5"> - - </string>
+
+    <string-array name="arreglo1">
+            <!-- LONGITUD -->
+        <!-- INTERNACIONAL -->
+        <item>Centímetro -> Pulgada</item>
+        <item>Centímetro -> Pie</item>
+        <item>Centímetro -> Yarda</item>
+        <item>Centímetro -> Milla</item>
+
+        <item>Metro -> Pulgada</item>
+        <item>Metro -> Pie</item>
+        <item>Metro -> Yarda</item>
+        <item>Metro -> Milla</item>
+
+        <item>Kilómetro -> Pulgada</item>
+        <item>Kilómetro -> Pie</item>
+        <item>Kilómetro -> Yarda</item>
+        <item>Kilómetro -> Milla</item>
+
+            <!-- INGLES -->
+        <item>Pulgada -> Centímetro</item>
+        <item>Pulgada -> Metro</item>
+        <item>Pulgada -> Kilómetro</item>
+
+        <item>Pie -> Centímetro</item>
+        <item>Pie -> Metro</item>
+        <item>Pie -> Kilómetro</item>
+
+        <item>Yarda -> Centímetro</item>
+        <item>Yarda -> Metro</item>
+        <item>Yarda -> Kilómetro</item>
+
+        <item>Milla -> Centímetro</item>
+        <item>Milla -> Metro</item>
+        <item>Milla -> Kilómetro</item>
+
+        <!-- AREA -->
+        <item>Kilometro cuadrado -> Milla cuadrado</item>
+        <item>Kilometro cuadrado -> Yarda cuadrado</item>
+        <item>Kilometro cuadrado -> Pie cuadrado</item>
+        <item>Kilometro cuadrado -> Pulgada cuadrado</item>
+
+        <item>Metro cuadrado -> Milla cuadrado</item>
+        <item>Metro cuadrado -> Yarda cuadrado</item>
+        <item>Metro cuadrado -> Pie cuadrado</item>
+        <item>Metro cuadrado -> Pulgada cuadrado</item>
+
+        <item>Milla cuadrado -> Metro cuadrado</item>
+        <item>Milla cuadrado -> Kilometro cuadrado</item>
+
+        <item>Yarda cuadrado -> Metro cuadrado</item>
+        <item>Yarda cuadrado -> Kilometro cuadrado</item>
+
+        <item>Pie cuadrado -> Metro cuadrado</item>
+        <item>Pie cuadrado -> Kilometro cuadrado</item>
+
+        <item>Pulgada cuadrado -> Metro cuadrado</item>
+        <item>Pulgada cuadrado -> Kilometro cuadrado</item>
+
+        <!-- VOLUMEN -->
+        <item>Litro -> Galón</item>
+        <item>Litro -> Onza</item>
+
+        <item>Mililitro -> Galón</item>
+        <item>Mililitro -> Onza</item>
+
+        <item>Galón -> Litro</item>
+        <item>Galón -> Mililitro</item>
+
+        <item>Onza -> Litro</item>
+        <item>Onza -> Mililitro</item>
+
+    </string-array>
+
+
+    <!-- TERCERA APP -->
+    <string name="s6">Conversor de temperaturas</string>
+    <string-array name="arreglo2">
+        <item>Celsius -> Kelvin</item>
+        <item>Celsius -> Fahrenheit</item>
+
+        <item>Kelvin -> Celsius</item>
+        <item>Kelvin -> Fahrenheit</item>
+
+        <item>Fahrenheit -> Celsius</item>
+        <item>Fahrenheit -> Kelvin</item>
+    </string-array>
+
+
+    <string name="tab1">Conversiones decimales</string>
+    <string name="tab2">Conversor de medidas</string>
+    <string name="tab3">Conversor de temperatura</string>
+    <string name="img">Imagen</string>
+
+</resources>
